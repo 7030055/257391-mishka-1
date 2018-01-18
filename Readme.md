@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Андрей Королев](https://up.htmlacademy.ru/adaptive/13/user/257391).
-* Наставник: `Кекс мой наставник`.
+* Наставник: `Кекс мой наставник!`.
 
 ---
 
